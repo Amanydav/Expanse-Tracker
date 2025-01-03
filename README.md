@@ -33,9 +33,5 @@ MONGO_URI=<YOUR_MONGO_URI>
 ```
 npm run server
 ```
-5) Start a new terminal and run react's development server
-```
-cd social-media-app
-cd frontend
-npm start
+
 ```
