@@ -10,7 +10,7 @@ A fully-featured Expense-Tracker WebApp , built with the MERN stack.
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ### Live Demo
-## https://expanse-tracker-1.netlify.app/
+## https://expense-tracke1.netlify.app/
 
 ### Installation
 1) Clone this repository  
